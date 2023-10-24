@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Article</title>
+
+</head>
+
+<style>
+
+    header {
+
+        background-color: blue;
+
+        padding: 20px 0 20px 0;
+
+        border: 2px solid black;
+
+        margin: 10px 0  10px 0;
+
+    }
+
+    nav {
+
+        background-color: orange;
+
+        padding: 20px 0 20px 0;
+
+        border: 2px solid black;
+
+        margin: 10px 0  10px 0;
+
+    }
+
+    article {
+
+        background-color: aqua;
+
+        padding: 20px 0 20px 0;
+
+        border: 2px solid black;
+
+        margin: 10px 0  10px 0;
+
+        float: left ;
+
+        width: 70%;
+
+    }
+
+    aside {
+
+        background-color: yellow;
+
+        padding: 20px 0 20px 0;
+
+        border: 2px solid black;
+
+        margin: 10px 0  10px 0;
+
+        float: right;
+
+        width: 29%;
+
+        height: 630px;
+
+    }
+
+    section {
+
+        background-color: beige;
+
+        padding: 20px 0 20px 0;
+
+        border: 2px solid black;
+
+        margin: 10px 30px 30px 10px;
+
+    }
+
+    footer {
+
+        background-color: green;
+
+        padding: 20px 0 20px 0;
+
+        border: 2px solid black;
+
+        margin: 10px 0  10px 0;
+
+        clear: both;
+
+    }
+
+</style>
+
+<body>
+
+    <header>
+
+        <img align="left" width="100"th="" src="/storage/emulated/0/DCIM/Logokoreanboo.jpg" alt=""> 
+
+<h1 align="center"> Koreanboo’s Linimasa</h1> 
+
+    </header>
+
+    <nav>
+
+        <table style="width: 100%;">
+
+            <tbody>
+
+                <tr>
+
+                    <td><a href=""> Timeline </a> &NonBreakingSpace;|</td>
+
+                    <td><a href="">For you</a> &NonBreakingSpace;|</td>
+
+                    <td><a href=""> List </a> &NonBreakingSpace;|</td>
+
+                    <td><a href=""> ENHYPEN </a> &NonBreakingSpace;|</td>
+
+                    <td><a href=""> Doulingo </a> &NonBreakingSpace;|</td>
+
+                    <td><a href=""> Other news </a> &NonBreakingSpace;|</td>
+
+                </tr>
+
+            </tbody>
+
+        </table>
+
+    </nav>
+
+    <article>
+
+        <h3>Article – Oct, 22, 2023</h3>
+
+        <section>
+
+            <h4> The Duolingo Owl Appears To Have A Crush On ENHYPEN’s Heeseung </h4>
+
+            <p> With many K-Pop fans speaking languages other than Korean, several are likely familiar with Duolingo. Duolingo is a language app that is available for free on most devices and allows users to brush up their skills on over 40 languages.  While this was wild enough, Duo edited a photo of Heeseung posted after the group’s concert in Glendale. He drew himself into the picture wearing a bikini and showing off his abs. [...]
+
+                <input type="button" value="Read more">
+
+                <img width="200" src="/storage/emulated/0/DCIM/Douhee.jpg" alt="Heeseung Doulingo">
+
+            </p>
+
+        </section>
+
+
+
+        <section>
+
+            <h4> Netizens Praise ENHYPEN’s Jay For His Reaction To A Fan Fainting In The Audience </h4>
+
+            <p> ENHYPEN are currently on the American leg of their Fate world tour and have entertained fans nationwide. An exclusive send-off perk has created some fantastic moments for fans on top of impressive performances. [...]
+
+                <input type="button" value="Read more">
+
+                <img width="200" src="/storage/emulated/0/DCIM/Jay.jpg" alt="Jay pict">
+
+            </p>
+
+        </section>
+
+
+
+        <section>
+
+            <h4> ENHYPEN Will Reportedly Make Their Comeback In November </h4>
+
+            <p> According to an exclusive report from Newsen, ENHYPEN will make their comeback in November. The format for their comeback release was not stated. This comeback would come six months after their last comeback with DARK BLOOD, which was back in May.  -ADVERTISEMENT- Currently, ENHYPEN is embarking on their world tour MANIFESTO. They are getting ready for the United States leg of their tour, with concerts in Los Angeles, Glendale, Houston, Dallas, Newark, and Chicago. [...]
+
+                <input type="button" value="Read more"> 
+
+                <img width="200" src="/storage/emulated/0/DCIM/Enhypen.jpg" alt="Enhypen">
+
+            </p>
+
+        </section>
+
+    </article>
+
+</body>
+
+</html>
