@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <fieldset>
+        <legend>
+            <h3>Directory Profile Page</h3>
+        </legend>
+    <table style="width: 100%;">
+        <tbody>
+            <tr>
+                <td>
+                    <img width="200" src="/storage/emulated/0/DCIM/fotoyujin.jpg" alt="foto diri">
+                </td>
+
+                <td>
+                    <h1>BASIC INFO</h1>
+                    <p> Name : Siti Hiyarunnisa </p>
+                    <p> Date of birthday : May 16, 2004 </p>
+                    <p> Address : Kp. Cimande Nangoh </p>
+                    <p> Telphone : 05774704815 </p>
+                    <p>Email : <a href="mailto:siti23144ti@student.nurulfikri.ac.id">siti23144ti@student.nurulfikri.ac.id</a></p>
+                </td>
+
+                <td>
+                    <h3><u>categories</u></h3>
+                    <p>Lorem ipsum</p>
+                    <p>dolor sit</p>
+                    <p>amet</p>
+                    <p>dolor sit</p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <p>
+        I, Siti Hiyarunnisa, but prefer to be called Ica, am a student at STT Terpadu Nurul Fikri, it’s my first semester, my study program is– Teknik Informatika. It will be very proud, graduating at the specified time, getting cumlaude and also gaining experience during 4 years of college. That's my goal, and hopefully it will be surrounded by many conveniences.
+    </p>
+    <p>
+       
+        A little bit spesific, I talk a lot about my faves one, about my taste in music, about someone I like, about everything I wanted to know. I genuinely talks a lot and that’s so annoying sometimes. I, thinker, and that's outrageous. I, perhaps, would always look out for my friends well-being– it feels like I cared too much about everyone close to me.
+    </p>
+    <br>
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                    <iframe width="400" height="200" src="https://www.youtube.com/embed/HROTJfbtcU4?si=spmqcvlbBvXwbG04" frameborder="0"></iframe>
+                </td>
+
+                <td>
+                    <fieldset>
+                        <img width="200" src="/storage/emulated/0/DCIM/Tak berjudul374.jpg" alt="">
+                        <img width="200" src="/storage/emulated/0/DCIM/Tak berjudul373.jpg" alt="">
+                        <img width="200" src="/storage/emulated/0/DCIM/Tak berjudul381 (1).jpg" alt="">
+                    </fieldset>
+                </td>
+                <td>
+                    <fieldset>
+                        <legend>
+                            <h3>attachments</h3>
+                        </legend>
+                        <a href="https://link.medium.com/lS7aKjZtDzb"> Link download pict </a>
+                        <br>
+                        <a href="https://link.medium.com/y22crFZrVzb"> link download pict </a>
+                        <br>
+                        <a href="https://link.medium.com/y22crFZrVzb"> Link download pict </a>
+                        <br>
+                        <a href="https://link.medium.com/6qYoXkE5Bzb"> Link download pict </a>
+                    </fieldset>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</fieldset>
+</body>
+</html>
